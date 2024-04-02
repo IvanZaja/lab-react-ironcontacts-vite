@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+
+.image {
+  width: 100px;
+  margin: 5px;
+}
+
+.head {
+  width: 100px;
+  overflow-wrap: break-word;
+}
+
+.name {
+  padding: 0 30px;
+}
+
+table {
+  border: 4px solid #ffffff;
+}
+
+td, tr, th {
+  border-bottom: 1px solid #ffffff; /* Cambia el color según tus necesidades */
+}
